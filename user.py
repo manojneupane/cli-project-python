@@ -6,6 +6,11 @@ import sqlite3
 # git init //to initialize git
 # git status //to see the status 
 # git add . //to add the all files from current director to git
+# git commit -m "Finished project "  //to add the commit in the project.
+# Git changes
+# git diff //to see the changes in file.
+
+
 
 
 # Creating the connection function to connect sqlite3 database
